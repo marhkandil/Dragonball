@@ -27,7 +27,6 @@ import dragonball.model.character.fighter.Saiyan;
 import dragonball.model.exceptions.MissingFieldException;
 import dragonball.model.exceptions.NotEnoughKiException;
 import dragonball.model.exceptions.UnknownAttackTypeException;
-import javafx.scene.paint.Color;
 
 public class BattleView extends JLabel{
 	private Fighter active,foe,me;
